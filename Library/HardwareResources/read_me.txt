@@ -1,1 +1,1 @@
-This is for resources on hardware for controls/robotics projects
+This is for library resources on hardware for controls/robotics projects
