@@ -4,7 +4,7 @@ This repository is for a collection of resources on controls and modeling, embed
 The intention is to create a online resource bank for engineers to share and collaborate to make creating projects easier. 
 
 ## Background Summary
-- myRIO (LabVIEW Real-Time Module) and sensor integration
+- myRIO (LabVIEW Real-Time Module) for full-stack robotics middleware and real-time control algorithm development
 - TIVA boards (IAR Workbench) with low-level computing and register setup
 - Arduino for basic embedded computing and memory management
 - Beaglebone Black implementation (no development)
